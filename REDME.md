@@ -8,3 +8,8 @@ Tech
 [X] Banco de dados - Postgres
 [X] NeonDB
 [X] Migrations
+[ ] Tailwind
+[x] Git Convetions
+[x] Prettier
+[X] Eslint
+[]
