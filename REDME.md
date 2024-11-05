@@ -20,3 +20,7 @@ Tech
 [X] Autenticação CLECK
 [x] CLERK @clerk/nextjs@5.7.5
 [X] CLERK THEME @clerk/themes@2.1.37
+[X] GIT HOOKS
+[X] HUSKY @9.1.6
+[X] LINT-STAGE @12.3.2
+[X] GIT-COMMIT-MSG-LINTER @5.0.8
