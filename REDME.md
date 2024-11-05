@@ -8,8 +8,8 @@ Tech
 [X] Banco de dados - Postgres
 [X] NeonDB
 [X] Migrations
-[ ] Tailwind
+[x] Tailwind
 [x] Git Convetions
 [x] Prettier
 [X] Eslint
-[]
+[X] Shadcn/ui @2.1.3
